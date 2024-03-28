@@ -1,6 +1,6 @@
 # Shipyard-Jinsei.ai
 
-Various data transformation and validation solutions powered by TF and GPT. 
+Various data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
 
 ## How these solutions help Shipyard:
 
