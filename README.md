@@ -4,11 +4,17 @@ Various data transformation and validation solutions powered by TF and GPT.
 ## How these solutions help Shipyard:
 
 BRAND RESEARCH & POSITIONING: Understand statistics related to client businesses.
+
 STRATEGIC PLANNING: Specify key variables for strategic planning. 
+
 DATA SCIENCE: Automate data intake from ERP systems.
+
 MEASUREMENT STRATEGY: Specify a traction measurement report and the GPT solution will fetch the report from the database. 
+
 TRACKING & ROI RESEARCH: Specify a traction and/or ROI report and the GPT solution will aggregate the elements from the database. 
+
 DATA ROAD MAPPING: Ask GPT about road mapping data cycles for feedback about optimum data management, storing, and validation strategies.
+
 TESTING & EXPERIMENTATION: Observe the training data and predictive performance of Jinsei.ai Shipyard models on https://jinsei.ai/shipyard
 
 
