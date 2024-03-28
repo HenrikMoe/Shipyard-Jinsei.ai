@@ -2,7 +2,7 @@
 
 Various data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
 
-## How these solutions help Shipyard:
+## How the solutions help Shipyard:
 
 BRAND RESEARCH & POSITIONING: Understand driving statistics behind brand roi.
 
