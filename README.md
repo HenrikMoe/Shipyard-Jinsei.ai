@@ -1,7 +1,7 @@
 # Shipyard-Jinsei.ai
 Various data transformation and validation solutions powered by TF and GPT. 
 
-## 1) XML Sequence-to-Sequence Sheets Transformer 
+## 1) XML/CSV Sequence-to-Sequence Sheets Transformer 
 
 - excel sheet content to database mapping service 
 - needs investment statements sets from compatible and not compatible excel sheets 
@@ -65,3 +65,18 @@ input_xml_data = [example["input_xml"] for example in training_data]
 target_xml_data = [example["target_xml"] for example in training_data]
 
 ```
+
+## 2) Chat GPT + XML/CSV Content/Position Validation Service 
+
+- TS Boilerplate Prompt (content) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
+- PY Boilerplate Sequence 2 Sequence Training: https://github.com/HenrikMoe/LodgeIt-JinseiAI/edit/main/xmlSeq2Seq.py
+- TS Boilderplate Prompt Live Matrix Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/matrixContextChatBoiler.js)
+
+## 3) Chat GPT Database Element Extraction & Report Compilation Service
+
+- Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
+- Boilerplate Classification Training: https://github.com/PortalToBlockchainOrganization/CryptoCountAI/blob/master/typeModelResult1.py
+- Integrate Shipyard DB Queries to Taxonomy Element pairings 
+- Needs collections of reports required by Shipyard clientele 
+
+
