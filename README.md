@@ -1,4 +1,4 @@
-# Shipyard-Jinsei.ai
+# Shipyard + Jinsei.ai
 
 Various data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
 
