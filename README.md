@@ -25,7 +25,7 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 - Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
 - Boilerplate Classification Training: https://github.com/PortalToBlockchainOrganization/CryptoCountAI/blob/master/typeModelResult1.py
 - Integrate Shipyard DB Queries to Taxonomy Element pairings 
-- Needs collections of reports required by Shipyard clientele
+- Needs collections of client ROI reports required by Shipyard clientele
 
 
 ## 2) Chat GPT + XML/CSV Content/Position Validation Service 
