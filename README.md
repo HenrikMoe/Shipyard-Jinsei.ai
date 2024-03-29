@@ -22,6 +22,8 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 
 ## 1) Chat GPT Database Element Extraction & Report Compilation Service
 
+### Assitant that can be asked for ROI reports and live KPI figures for an ongoing campaign.
+
 - Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
 - Boilerplate Classification Training: https://github.com/PortalToBlockchainOrganization/CryptoCountAI/blob/master/typeModelResult1.py
 - Integrate Shipyard DB Queries to Taxonomy Element pairings 
