@@ -2,7 +2,7 @@
 
 Various data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
 
-## How the solutions help Shipyard:
+## How Jinsei.ai solutions will help Shipyard:
 
 BRAND RESEARCH & POSITIONING: Understand driving statistics behind brand roi.
 
