@@ -18,7 +18,7 @@ DATA ROAD MAPPING: Ask GPT about transformations in data cycles for feedback abo
 
 TESTING & EXPERIMENTATION: Observe training data and the predictive performance of Jinsei.ai Shipyard models at https://jinsei.ai/shipyard
 
-# Solutions 
+# Shipyard Solutions 
 
 ## 1) Chat GPT Database Element Extraction & Report Compilation Service
 
