@@ -22,6 +22,8 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 
 ## 1) Chat GPT Database Element Extraction & Report Compilation Service
 
+### Easy access to campaign media ROI and KPI 
+
 ### Assitant that can be asked for ROI reports and live KPI figures for an ongoing campaign.
 
 - Boilerplate Prompt (query syntax) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
