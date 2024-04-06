@@ -20,7 +20,7 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 
 # Shipyard Solutions 
 
-## 1) Chat GPT Database Element Extraction & Report Compilation Service
+## 1) GPT Campaign Media Database Element Extraction & Report Compilation Service
 
 ### Easy access to campaign media ROI and KPI 
 
@@ -32,15 +32,7 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 - Needs collections of client ROI reports required by Shipyard clientele
 
 
-## 2) Chat GPT + XML/CSV Content/Position Validation Service 
-
-- TS Boilerplate Prompt (content) Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/server.js
-- PY Boilerplate Sequence 2 Sequence Training: https://github.com/HenrikMoe/LodgeIt-JinseiAI/edit/main/xmlSeq2Seq.py
-- TS Boilderplate Prompt Live Matrix Training: https://github.com/HenrikMoe/jinsei.ai-sbrm-rdf-llm-UI/blob/main/backend/matrixContextChatBoiler.js)
-
-
-
-## 3) XML/CSV Sequence-to-Sequence Sheets Transformer 
+## 2) XML/CSV/JSON Sequence-to-Sequence Sheets Transformer 
 
 - excel sheet content to database mapping service 
 - needs investment statements sets from compatible and not compatible excel sheets 
