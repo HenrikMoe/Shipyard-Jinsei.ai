@@ -1,6 +1,6 @@
 # Shipyard + Jinsei.ai
 
-Various data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
+Various campaign media data transformation and validation solutions powered by Jax Tensorflow and GPT/Grok. 
 
 ## How Jinsei.ai solutions will help Shipyard:
 
