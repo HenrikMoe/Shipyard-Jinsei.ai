@@ -20,7 +20,7 @@ TESTING & EXPERIMENTATION: Observe training data and the predictive performance 
 
 # Shipyard Solutions 
 
-## 1) GPT Campaign Media Database Element Extraction & Report Compilation Service
+## 1) GPT/Grok Campaign Media Database Element Extraction & Report Compilation Service
 
 ### Easy access to campaign media ROI and KPI 
 
